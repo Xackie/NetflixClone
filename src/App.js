@@ -22,6 +22,7 @@ function App() {
       <Row title="Romantic Movies" fetchURL={requests.fetchRomanceMovies} />
       <Row title="Documentaries" fetchURL={requests.fetchDocumantaries} />
     </div>
+    
   );
 }
 
